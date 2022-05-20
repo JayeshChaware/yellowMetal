@@ -1,0 +1,59 @@
+.navElement{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    margin-top: 3vh;
+    /* box-shadow: ; */
+    
+}
+.launching{
+    
+    margin-bottom: -2.5vh;
+    padding-left: 25%;
+    font-size: 1.7vh;
+    letter-spacing: -0.59px;
+    color:#4562DB ;
+    opacity: 0.99;
+}
+.logoo{
+    width: 10vh;
+    margin-left: 10vw;
+    justify-self: start;
+}
+.NavLink 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-inline-end: 33px;
+    margin-left: 4vw;
+   
+}
+.NavLink ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+        float: right;
+}
+.NavLink ul li{
+    float: left;
+}
+.nav-item{
+    margin: 2vh;
+}
+.nav-item img{
+    width: 2vh;
+    margin: 1vh;
+}
+.NavLogin button{
+    background: #FF5C53 0% 0% no-repeat padding-box;
+    /* padding:10px  ; */
+    height: 5vh;
+    width: 10vw;
+    text-align: center;
+    border-radius: 5px;
+    color: #fff;
+    border: 0px;
+}
