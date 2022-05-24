@@ -1,12 +1,12 @@
 import React from 'react'
 import '../assets/css/nav.css'
-import logo from '../assets/img/szlylw1so3ukzg87c1rq.png'
-import pic1  from '../assets/img/coin.png'
-import pic2  from '../assets/img/Equalizer_1_.png'
-import pic3  from '../assets/img/corporate.png'
-import pic4  from '../assets/img/solid.png'
-import pic5  from '../assets/img/information-button.png'
-import pic6  from '../assets/img/Page-1.png'
+import logo from '../assets/img/nav/szlylw1so3ukzg87c1rq.png'
+import pic1  from '../assets/img/nav/coin.png'
+import pic2  from '../assets/img/nav/Equalizer_1_.png'
+import pic3  from '../assets/img/nav/corporate.png'
+import pic4  from '../assets/img/nav/solid.png'
+import pic5  from '../assets/img/nav/information-button.png'
+import pic6  from '../assets/img/nav/Page-1.png'
 const Nav = () => {
   return (
     <div>
