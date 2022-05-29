@@ -7,7 +7,7 @@ import quotes from '../assets/img/costomer Review/quote.png'
 const Review = () => {
   return (
     <div>
-        <div className='Container-Fluid'>
+        <div className=' FloatContainer'>
             <div className='container1'>
                 <img src={Dash}  className='container1-img'/>
                 <div className='container1elements'>

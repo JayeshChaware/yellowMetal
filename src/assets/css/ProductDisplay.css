@@ -1,0 +1,138 @@
+.DisplayRow{
+    display: flex;
+    margin: auto;
+   
+}
+.DiplayElement{
+    border-width: 5px;
+    border-radius: 17px;
+    border-color: #000000;
+    border: 1px solid #70707069;
+    margin: 1vw;
+}
+.GoldCoin{
+    background:url( '../img/Product Display/Group 13907.png') no-repeat center center/cover;
+    width: 22.5vw;
+    height: 22.5vw;
+    border-radius: 17px;
+   display: flex;
+   position: relative;
+}
+.SilverCoin{
+    background:url( '../img/Product Display/Group 13908@2x.png') no-repeat center center/cover;
+    width: 22.5vw;
+    height: 22.5vw;
+    border-radius: 17px;
+   display: flex;
+   position: relative;
+}
+.PlatinumCoin{
+    background:url( '../img/Product Display/Group 13910.png') no-repeat center center/cover;
+    width: 22.5vw;
+    height: 22.5vw;
+    border-radius: 17px;
+   display: flex;
+   position: relative;
+}
+.BestSellerCoin{
+    background:url( '../img/Product Display/Group 13907.png') no-repeat center center/cover;
+    width: 22.5vw;
+    height: 22.5vw;
+    border-radius: 17px;
+   display: flex;
+   position: relative;
+}
+
+.Offers{
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    
+}
+.Wishlist{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+.BestSeller{
+    margin: 5px;
+    position: absolute;
+    top: 15px;
+    left: 16px;
+    font-family:'Poppins', sans-serif;
+    font: normal normal medium 19px/46px ;
+    letter-spacing: -0.53px;
+    color: #FFFFFF;
+    opacity: 0.99;
+    background: #4562DB 0% 0% no-repeat padding-box;
+border-radius: 9px;
+opacity: 1;
+height: 1.5vw;
+width: 6vw;
+}
+.AddBTN{
+    background: #EAF2FF;
+    border: 0px;
+    border-radius: 102px;
+    width: 140px;
+height: 45px;
+position: absolute;
+right: 20px;
+font-size: 25px ;
+font-family:'Poppins', sans-serif;
+letter-spacing: -0.7px;
+color: #4562DB;
+opacity: 0.99;
+}
+.Amount{
+    
+    position: relative;
+    
+    font-size:35px;
+    font-weight: 600;
+    font-family:'Poppins', sans-serif;
+letter-spacing: -1.37px;
+opacity: 0.99;
+    
+}
+.Amount img{
+    width: 24px;
+    height: 35px;
+}
+.AddBTN img{
+    width: 23px;
+    height: 23px;
+}
+
+.CoinDetail{
+    font-family:'Poppins', sans-serif;
+    font-size: 22px;
+    letter-spacing: -0.64px;
+    color: #000000;
+    opacity: 0.99;  
+}
+.discription button{
+    background: #4562DB 0% 0% no-repeat padding-box;
+border-radius: 9px;
+opacity: 1;
+font-size: 14px;
+letter-spacing: -0.42px;
+color: #FFFFFF;
+opacity: 0.99;
+border: 0px;
+
+padding: 5px 10px;
+}
+.Carat{
+    margin: 0px 5px;  
+}
+.description{
+    padding: 20px 15px;
+    width: 22.5vw;
+}
