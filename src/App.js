@@ -3,6 +3,7 @@ import Nav from './components/nav';
 import Review from './components/Review'
 import SocialMedia from './components/social_media'
 import ProductDisplay from './components/ProdctDisplay'
+import Checkout from './components/Checkot'
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
   <Review/>
   <SocialMedia/>
   <ProductDisplay/>
+  <Checkout/>
     </div>
   );
 }

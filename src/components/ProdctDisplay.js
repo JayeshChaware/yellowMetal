@@ -92,7 +92,7 @@ const ProdctDisplay = () => {
     <BestSeller Coin="GoldCoin" />
     <Product Coin="PlatinumCoin" />
   </div>
-  <div className='DisplayRow'>
+    <div className='DisplayRow'>
     <Product Coin="GoldCoin" />
     <Product Coin="SilverCoin" />
     <BestSeller Coin="GoldCoin" />
